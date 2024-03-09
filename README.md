@@ -68,7 +68,8 @@ public class roll : MonoBehaviour
 ```
 ### Output :
 
-![Uploading image.png…]()
+
+![image](https://github.com/vinushcv/Exp02-RollABall/assets/113975318/1402009b-bd70-4962-bfc0-174a529eb6a8)
 
 
 ### Result:
